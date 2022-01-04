@@ -1,4 +1,3 @@
 # MENU
 
-- [Test](./test.md)
-    - [Test](./test1.md)
+- [鋼鐵星辰](./index.md)
