@@ -1,1 +1,0 @@
-[![SupportUS](./img/afdian.jpg)](https://afdian.net/@Gugle)

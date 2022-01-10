@@ -1,6 +1,6 @@
 # MENU
 - [钢铁星辰](./index.md)
-- [赞助我们](./support_us.md)
+- [关于我们](./about_us.md)
 - [物品/方块](./item_block.md)
     - [基础](./item_block/base.md)
         - [芯片](./item_block/base/chip.md)
