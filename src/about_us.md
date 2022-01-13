@@ -10,7 +10,7 @@
 [![Java](https://img.shields.io/badge/Java-17-yellow)](https://docs.microsoft.com/java/openjdk/download)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.18.1-66ccff)](https://www.minecraft.net/)
 
-[<img src="./img/afdian.jpg" height="320"/>](https://afdian.net/@Gugle)
+[<img src="./img/afdian.jpg" height="320"/>](https://afdian.net/@Gugle)<iframe src="https://kaiheila.cn/widget?id=4377629872656820&theme=dark" width="224" height="320" allowtransparency="true" frameborder="0"></iframe>
 
 ## Thanks For
 ### author
